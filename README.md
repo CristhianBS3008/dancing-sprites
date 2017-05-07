@@ -1,3 +1,3 @@
 # Dancing Sprites
 
-* Sample spritesheet animation using Python and Pygame
+* Sample spritesheet animations using Python and Pygame
